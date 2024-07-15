@@ -1,0 +1,9 @@
+{
+  "title": "Mi Portafolio",
+  "files": [
+      "index.html",
+      "styles.css"
+  ],
+  "open": "index.html",
+  "template": "vanilla"
+}
